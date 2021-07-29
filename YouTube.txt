@@ -1,9 +1,9 @@
 # > YouTube
-user-agent, com.google.ios.youtube*,YouTube
-user-agent, YouTube*, YouTube
-host-suffix, googlevideo.com,YouTube
-host-suffix, youtube.com,YouTube
-host, youtubei.googleapis.com,YouTube
+user-agent, com.google.ios.youtube*
+user-agent, YouTube*
+host-suffix, googlevideo.com
+host-suffix, youtube.com
+host, youtubei.googleapis.com
 PROCESS-NAME,com.google.android.youtube
 PROCESS-NAME,com.google.android.youtube.tv
 DOMAIN-SUFFIX,googlevideo.com
