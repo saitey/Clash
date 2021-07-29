@@ -4,3 +4,12 @@ user-agent, YouTube*, Global
 host-suffix, googlevideo.com, Global
 host-suffix, youtube.com, Global
 host, youtubei.googleapis.com, Global
+
+# > YouTube
+  - PROCESS-NAME,com.google.android.youtube
+  - PROCESS-NAME,com.google.android.youtube.tv
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN,youtubei.googleapis.com
+  - DOMAIN,yt3.ggpht.com
