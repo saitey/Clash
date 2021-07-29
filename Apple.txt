@@ -55,3 +55,9 @@
   - DOMAIN,appstoreconnect.apple.com
   - DOMAIN,iosapps-ssl.itunes.apple.com
   - DOMAIN,itcmobile.itunes.apple.com
+    # > Apple
+  - DOMAIN,appleid.apple.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,www.icloud.com
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,xp.apple.com
