@@ -2,8 +2,7 @@
 # (DNS Cache Pollution Protection)
 
 # Streaming Media
-# > Chromecast with Google TV
-DOMAIN-KEYWORD,pa.google
+
 # (Live)
 # > Twitch
 PROCESS-NAME,tv.twitch.android.app
