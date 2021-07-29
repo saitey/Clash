@@ -4,6 +4,9 @@
 # Streaming Media
 
 # (Live)
+# > SlutoTv
+DOMAIN-SUFFIX,pluto.tv
+
 # > Twitch
 PROCESS-NAME,tv.twitch.android.app
 DOMAIN-SUFFIX,jtvnw.net
